@@ -1,9 +1,8 @@
-name: GRADLE_PROJECT_NAME
-version: GRADLE_PROJECT_VERSION
-api-version: 1.16.4
-description: SPIGOT_DESCRIPTION
-main: SPIGOT_MAIN_PATH
+name: SpigotPlugin
+version: @VERSION@
+api-version: 1.16
+description: This is the plugin description
+main: eu.koboo.spigot.Man
 author: Koboo
-prefix: GRADLE_PROJECT_NAME
 website: https://koboo.eu
 commands:
